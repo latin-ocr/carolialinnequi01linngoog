@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carolialinnequi01linngoog_0756.png"; bbox 0 0 2504 4590; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 813 1179 1095">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 41 813 1179 1095">
+     <span class='ocr_line' id='line_1_1' title="bbox 41 813 1179 1095; baseline -0.008 -67"><span class='ocrx_word' id='word_1_1' title='bbox 41 1019 43 1028; x_wconf 82' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 127 859 427 1095; x_wconf 76' lang='lat' dir='ltr'>CAR.</span> <span class='ocrx_word' id='word_1_3' title='bbox 487 911 538 1055; x_wconf 51' lang='lat'>4</span> <span class='ocrx_word' id='word_1_4' title='bbox 592 813 1070 1016; x_wconf 62' lang='lat' dir='ltr'><strong>mm-</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1175 1014 1179 1019; x_wconf 77' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 41 1190 1169 1784">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 41 1190 1169 1784">
+     <span class='ocr_line' id='line_1_2' title="bbox 41 1190 1169 1390; baseline 0.007 -9"><span class='ocrx_word' id='word_1_6' title='bbox 41 1190 1169 1390; x_wconf 56' lang='lat' dir='ltr'><strong>MNT-lgm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 63 1541 1085 1784; baseline -0.001 -101"><span class='ocrx_word' id='word_1_7' title='bbox 63 1541 1085 1784; x_wconf 70' lang='lat' dir='ltr'><strong>PLANTARYM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 166 1872 1018 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 166 1872 1018 2188">
+     <span class='ocr_line' id='line_1_4' title="bbox 166 1872 1018 1980; baseline 0.002 -3"><span class='ocrx_word' id='word_1_8' title='bbox 166 1872 1018 1980; x_wconf 75' lang='lat' dir='ltr'><strong><em>GENERVM</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 449 2105 903 2188; baseline -0.002 -6"><span class='ocrx_word' id='word_1_9' title='bbox 449 2105 903 2188; x_wconf 68' lang='lat' dir='ltr'><strong>Tmmsu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 141 2527 1035 2850">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 141 2527 1035 2850">
+     <span class='ocr_line' id='line_1_6' title="bbox 141 2527 1035 2647; baseline -0.006 -3"><span class='ocrx_word' id='word_1_10' title='bbox 141 2527 1035 2647; x_wconf 76' lang='lat' dir='ltr'><strong><em>SPECIER‘VM</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 274 2734 1032 2850; baseline -0.001 -3"><span class='ocrx_word' id='word_1_11' title='bbox 274 2768 309 2847; x_wconf 77' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_12' title='bbox 335 2770 879 2850; x_wconf 75' lang='lat'>1111111111</span> <span class='ocrx_word' id='word_1_13' title='bbox 1027 2734 1032 2741; x_wconf 83' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1256 4590">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1256 4590">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1256 4590; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1256 4590; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carolialinnequi01linngoog_0643.png"; bbox 0 0 879 1538; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 132 144 738 856">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 132 144 738 856">
+     <span class='ocr_line' id='line_1_1' title="bbox 132 144 738 856; baseline 0.008 -41"><span class='ocrx_word' id='word_1_1' title='bbox 132 144 738 856; x_wconf 95' lang='lat' dir='ltr'><strong>     </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 181 768 541 887">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 184 768 511 808">
+     <span class='ocr_line' id='line_1_2' title="bbox 184 768 511 808; baseline 0.009 -8"><span class='ocrx_word' id='word_1_2' title='bbox 184 768 234 804; x_wconf 53' lang='lat' dir='ltr'><strong>ilva-a·-</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 262 789 286 802; x_wconf 85' lang='grc' dir='ltr'><strong>ιο.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 297 783 318 805; x_wconf 77' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 328 784 446 805; x_wconf 60' lang='lat' dir='ltr'><strong>(amnon-nis.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 456 784 511 808; x_wconf 71' lang='lat' dir='ltr'><strong>poflb</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 181 805 541 887">
+     <span class='ocr_line' id='line_1_3' title="bbox 195 805 541 822; baseline -0.003 -1"><span class='ocrx_word' id='word_1_7' title='bbox 195 810 226 821; x_wconf 66' lang='lat' dir='ltr'><strong>nu,-</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 270 807 280 817; x_wconf 66' lang='grc' dir='ltr'><em>Ι</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 328 805 378 822; x_wconf 53' lang='lat' dir='ltr'>aihu!</span> <span class='ocrx_word' id='word_1_10' title='bbox 536 816 541 820; x_wconf 84' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 181 825 534 865; baseline -0.003 -19"><span class='ocrx_word' id='word_1_11' title='bbox 181 825 260 846; x_wconf 60' lang='lat' dir='ltr'><strong>fimas-¹-</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 272 830 288 846; x_wconf 80' lang='lat'><strong>⁹.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 298 826 318 844; x_wconf 84' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 329 825 406 865; x_wconf 44' lang='lat' dir='ltr'><strong>{glanem</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 506 846 513 856; x_wconf 69' lang='lat'><strong>=.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 530 852 534 856; x_wconf 84' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 184 867 529 887; baseline 0 -2"><span class='ocrx_word' id='word_1_17' title='bbox 184 869 248 885; x_wconf 69' lang='lat' dir='ltr'><strong>madero-</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 264 868 290 886; x_wconf 62' lang='lat' dir='ltr'><strong>ni</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 299 867 318 885; x_wconf 79' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 331 867 360 886; x_wconf 67' lang='grc' dir='ltr'><strong>Ωιι,</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 370 867 529 887; x_wconf 58' lang='lat' dir='ltr'><strong>cummuni·-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
